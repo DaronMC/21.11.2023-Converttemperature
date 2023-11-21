@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.34114.132
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "21.11.2023 Converttemperature", "21.11.2023 Converttemperature\21.11.2023 Converttemperature.pyproj", "{BA3D349B-05EF-4096-819D-C3FA655E5539}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BA3D349B-05EF-4096-819D-C3FA655E5539}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BA3D349B-05EF-4096-819D-C3FA655E5539}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C6041549-F176-4C06-AA04-FBF8DCE4BC23}
+	EndGlobalSection
+EndGlobal
